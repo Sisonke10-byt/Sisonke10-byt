@@ -1,9 +1,8 @@
 <h1 align="left">Hey there! 👋</h1>
----
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF35B7&background=77A1FF00&center=true&vCenter=true&width=490&lines=I'm+Sisonke+Boyilani%2C+DevOps+Intern%2C;Passionate+about+technology+and+innovation)](https://git.io/typing-svg)
 
----
+
 ###
 
 <h2 align="center">About me</h2>
@@ -11,6 +10,8 @@
 ###
 
 <p align="left">🌱 I’m currently learning and expanding my skills in full-stack development.<br><br>👯 I’m looking to collaborate on open-source projects.<br><br>💬 Ask me about HTML, CSS and JavaScript.<br><br>📫 How to reach me: sisonkeboyilani@capaciti.org.za| www.linkedin.com/in/sisonkesamkele | <br><br>⚡ Fun fact: I love exploring new technologies and working on innovative projects.</p>
+
+---
 
 ###
 
@@ -30,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
----
+
 
 ###
 
@@ -61,7 +62,7 @@
 
 ###
 
-<p align="left">📧 Email: sisonkeboyilani@capaciti.org.za<br><br>Let's connect and collaborate on exciting projects!</p>
+<p align="left">📧 Work Email: sisonkeboyilani@capaciti.org.za<br><br>>📩 Personal Email: sisonkesamkele@gmail.com.<br><br>>Let's connect and collaborate on exciting projects!</p>
 
 ###
 
