@@ -1,7 +1,9 @@
 <h1 align="left">Hey there! 👋</h1>
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF35B7&background=77A1FF00&center=true&vCenter=true&width=490&lines=I'm+Sisonke+Boyilani%2C+DevOps+Intern%2C;Passionate+about+technology+and+innovation)](https://git.io/typing-svg)
 
+---
 ###
 
 <h2 align="center">About me</h2>
@@ -27,6 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+---
 
 ###
 
